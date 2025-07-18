@@ -1,7 +1,11 @@
 # YachtOS-Companion
 
 Polityka Prywatności YachtOS Companion
+
+
 Data wejścia w życie: 18 lipca 2025
+
+
 Niniejsza Polityka Prywatności opisuje, w jaki sposób aplikacja YachtOS Companion ("Aplikacja", "my", "nasze" lub "nas") przetwarza informacje o użytkownikach ("użytkownik" lub "Ty"). Zapewniamy, że Twoja prywatność jest dla nas najważniejsza.
 Ważna informacja: Deweloper nie gromadzi żadnych danych osobowych ani informacji o lokalizacji użytkowników. Wszystkie dane są przetwarzane wyłącznie na Twoim urządzeniu i nigdy nie opuszczają Twojego urządzenia.
 Korzystając z Aplikacji, akceptujesz warunki określone w niniejszej Polityce Prywatności. Jeśli nie zgadzasz się z warunkami niniejszej polityki, prosimy o niekorzystanie z Aplikacji.
